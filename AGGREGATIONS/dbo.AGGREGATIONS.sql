@@ -61,6 +61,9 @@ Where floor_size>200
 Testing 12 
 
 --SECTION 2 – SUM Aggregations (10 Questions)
+
+testing 13
+
 --11. What is the total value of all properties combined?
 --12. What is the total property value per province?
 --13. What is the total property value per city?
